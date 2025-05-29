@@ -18,7 +18,4 @@ A data analysis project using SQL and Power BI to uncover booking trends, cancel
 3. Explore filters and visuals to uncover insights.
 
 ## 📸 Dashboard Preview
-![Ola Dashboard](assets/ola-dashboard.png)
-
-## 🔗 Live Project
-[GitHub Repository](https://github.com/ChaseMewara/Ola-Rides-Analytics-Dashboard.git)
+![Ola Dashboard](assets/ola-dashboard-pages.png)
