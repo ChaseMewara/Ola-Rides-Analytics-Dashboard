@@ -18,4 +18,4 @@ A data analysis project using SQL and Power BI to uncover booking trends, cancel
 3. Explore filters and visuals to uncover insights.
 
 ## 📸 Dashboard Preview
-![Ola Dashboard](assets/ola-dashboard-pages.png)
+![Ola Dashboard](assets/Ola-Dashboard-Pages.jpeg)
